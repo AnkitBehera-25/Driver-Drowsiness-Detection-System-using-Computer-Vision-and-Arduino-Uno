@@ -65,7 +65,7 @@ python drowsiness_detection.py
 ## 🎥 Demo Video
 
 👉 Watch the demo here:
-[https://drive.google.com/drive/folders/17350qNglsrK0GuH6FJ2L7mFUKWuHZmBA]
+[https://drive.google.com/file/d/1eKflGPm_dkluJcmdMIgGc67GhFpIR7pU/view?usp=drive_link]
 
 ## 💡 Features
 - Real-time drowsiness detection
