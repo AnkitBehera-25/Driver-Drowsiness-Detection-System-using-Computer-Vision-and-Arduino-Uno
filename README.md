@@ -33,9 +33,9 @@ To improve road safety by detecting driver fatigue and providing **instant alert
 
 ## 📁 Project Structure
 Driver-Drowsiness-Detection/
-> drowsiness_detection.py # Python code
--> arduino_code.ino # Arduino code
-- README.md
+drowsiness_detection.py   # Python code
+arduino_code.ino   # Arduino code
+README.md
 
 
 ## ▶️ How to Run
