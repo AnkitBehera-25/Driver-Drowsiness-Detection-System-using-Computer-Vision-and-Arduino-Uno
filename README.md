@@ -32,11 +32,10 @@ To improve road safety by detecting driver fatigue and providing **instant alert
 - Serial Communication (Python ↔ Arduino)  
 
 ## 📁 Project Structure
-Driver-Drowsiness-Detection/\n
-│\n
-├── drowsiness_detection.py # Python code\n
-├── arduino_code.ino # Arduino code\n
-├── README.md\n
+Driver-Drowsiness-Detection/
+- drowsiness_detection.py # Python code
+- arduino_code.ino # Arduino code
+- README.md
 
 
 ## ▶️ How to Run
