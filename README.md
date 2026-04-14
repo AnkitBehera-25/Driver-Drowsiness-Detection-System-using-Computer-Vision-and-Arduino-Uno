@@ -49,7 +49,7 @@ Driver-Drowsiness-Detection/
 ## 🔹 Step 1: Install dependencies
 
 ```bash
-pip install opencv-python dlib numpy
+pip install opencv-python mediapipe pyserial numpy 
 ```
 ##🔹 Step 2: Upload Arduino Code
 - Install Arduino IDE
