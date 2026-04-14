@@ -25,7 +25,7 @@ To improve road safety by detecting driver fatigue and providing **instant alert
 
 ## 🧠 Technologies Used
 
-- Python  
+- Python !! Works only in version 3.10 or less 
 - OpenCV (Computer Vision)  
 - Dlib / Haar Cascades (Face & Eye Detection)  
 - Arduino Uno  
